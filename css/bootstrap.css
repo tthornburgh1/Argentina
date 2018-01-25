@@ -4,6 +4,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+div img {
+  width: 400px;
+  border: 2px solid black;
+  align-items: center;
+  padding: 2px;
+}
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
